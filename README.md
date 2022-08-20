@@ -1,7 +1,10 @@
 # Dice-Game-JS
 
 This is a two player game.
+
 Objective: To win against an opponent by getting to a score of 100 first. 
+
+Video Demo: https://watch.screencastify.com/v/N4wn56DNFxKKRJI54zyH
 
 Rules: 
 - Press the hold button to save your current score to your total score and end your turn.
